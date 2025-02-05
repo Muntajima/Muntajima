@@ -1,6 +1,6 @@
 <br clear="both">
 
-<div align="center">
+<div align="center"  background-image: url('https://i.ibb.co.com/VjJnNDK/combo6.png')>
   <img height="400" src="https://i.ibb.co.com/7NX1x3vh/miti.png"  />
 </div>
 
