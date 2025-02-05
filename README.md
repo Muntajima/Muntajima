@@ -1,5 +1,5 @@
 <br clear="both">
-<img align="right" height="400" src="https://i.ibb.co.com/7NX1x3vh/miti.png"  />
+<img align="right" height="350" src="https://i.ibb.co.com/7NX1x3vh/miti.png"  />
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left" margin-top="20px">I Code with,</h3>
+<h3 align="left" margin-top="20">I Code with,</h3>
 
 ###
 
