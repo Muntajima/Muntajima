@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello, I'm Muntajima Mahbub, a passionate Frontend Web Developer. Dedicated to crafting engaging, user-friendly web experiences. Skilled in React, Tailwind CSS, MongoDB, and modern design tools. I bring ideas to life with clean, responsive code. Let's build something amazing together!</p>
+<p align="left">Hello, I'm Muntajima Mahbub, a passionate Full-Stack Web Developer. Dedicated to crafting engaging, user-friendly web experiences. Skilled in React, Tailwind CSS, MongoDB, NodeJs and modern design tools. I bring ideas to life with clean, responsive code. Let's build something amazing together!</p>
 
 ###
 
@@ -62,18 +62,20 @@
 </div>
 
 ###
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...Next js
+- 👯 I’m looking a job to increase my ability at...Full-stack Web development
+- - ⚡ Fun fact: ...Reading story books 
 
 <!--
 **Muntajima/Muntajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Next js
-- 👯 I’m looking a job to increase my ability at...Full-stack Web development 
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...Reading story books
+
 -->
