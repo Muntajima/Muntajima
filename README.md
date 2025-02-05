@@ -1,9 +1,5 @@
 <br clear="both">
-![Banner](https://img.shields.io/badge/My_Project-Exciting-blue?style=for-the-badge)
-
-<div align="center"  background-image: url('https://i.ibb.co.com/VjJnNDK/combo6.png')>
-  <img height="400" src="https://i.ibb.co.com/7NX1x3vh/miti.png"  />
-</div>
+<img align="right" height="400" src="https://i.ibb.co.com/7NX1x3vh/miti.png"  />
 
 ###
 
@@ -11,7 +7,8 @@
 
 ###
 
-<p align="left">Hello, I'm Muntajima Mahbub, a passionate Full Stack Developer. Dedicated to crafting engaging, user-friendly web experiences. Skilled in React, Tailwind CSS, MongoDB, NodeJs and modern design tools. I bring ideas to life with clean, responsive code. Let's build something amazing together!</p>
+<p align="left">Hello, I'm Muntajima Mahbub, a passionate Frontend Web Developer. Dedicated to crafting engaging, user-friendly web experiences. Skilled in React, Tailwind CSS, MongoDB, and modern design tools. I bring ideas to life with clean, responsive code. Let's build something amazing together!</p>
+
 
 ###
 - 🔭 I’m currently learning ...Next js
