@@ -62,10 +62,10 @@
 </div>
 
 ###
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently learning at ...Programming-Hero
 - 🌱 I’m currently learning ...Next js
 - 👯 I’m looking a job to increase my ability at...Full-stack Web development
-- - ⚡ Fun fact: ...Reading story books 
+- ⚡ Fun fact: ...Reading story books 
 
 <!--
 **Muntajima/Muntajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
