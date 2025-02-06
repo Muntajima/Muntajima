@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">Profile View</p>
+<h3 align="left">Profile View</h3>
 
 ###
 
